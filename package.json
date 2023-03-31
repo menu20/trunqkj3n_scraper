@@ -7,7 +7,26 @@
     "email": "ttk.trungkien333@gmail.com"
   },
   "module": "dist/index.mjs",
-  "version": "1.0.3",
+  "version": "1.0.5",
+  "license": "MIT",
+  "keywords": [
+    "scraper",
+    "crawler",
+    "trunqkj3n",
+    "trunqkj3n_scraper",
+    "y2mate",
+    "snaptik",
+    "tiktok",
+    "tiktokdownloader",
+    "tiktokdownloaderonline",
+    "snapsave",
+    "facebook",
+    "facebookdownloader",
+    "facebookdownloaderonline",
+    "facebookvideo",
+    "meitu",
+    "self2anime"
+  ],
   "description": "Package được viết bằng typescript dùng để lấy dữ liệu từ các trang web",
   "repository": {
     "type": "git",
