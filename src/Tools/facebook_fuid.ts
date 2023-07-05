@@ -9,7 +9,7 @@ export async function facebook_fuid(url: string): Promise<facebook_UID_Schema> {
     try {
         const vanity = await facebook_get_vanity(url) as string
         const data = await request([{
-            url: `https://thieutrungkien.dev/finduid?vanity=${vanity}`,
+            url: `https://trungkien.dev/finduid?vanity=${vanity}`,
             method: 'GET'
         }])
         return {
